@@ -1,0 +1,40 @@
+{
+  "name": "jsHtml5AudioRecorder",
+  "main": "jsHtml5AudioRecorder.js",
+  "authors": [
+    "Edouard Kombo <edouard.kombo@gmail.com>"
+  ],
+  "description": "Record live audio stream in html5 with echo cancellation, save file on your server, download it directly from browser or stream it",
+  "keywords": [
+    "html5",
+    "audio",
+    "recorder",
+    "html5",
+    "live",
+    "audio",
+    "stream",
+    "jsHtml5AudioRecorder"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/edouardkombo/jsHtml5AudioRecorder",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Recorderjs": "*"
+  },
+  "_release": "8b5cfb1ce2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8b5cfb1ce22fdfbe5d7129a70d06dee07647fff7"
+  },
+  "_source": "git://github.com/edouardkombo/jsHtml5AudioRecorder.git",
+  "_target": "*",
+  "_originalSource": "js-html5-audio-recorder",
+  "_direct": true
+}

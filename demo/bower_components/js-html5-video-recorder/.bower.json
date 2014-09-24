@@ -1,0 +1,44 @@
+{
+  "name": "jsHtml5VideoRecorder",
+  "main": "jsHtml5VideoRecorder.js",
+  "authors": [
+    "=edouardkombo <=edouard.kombo@gmail.com>"
+  ],
+  "description": "Record live video stream in html5 with automatic fps, stream it, save it on server or download directly from browser",
+  "keywords": [
+    "jsHtml5VideoRecorder",
+    "html5",
+    "video",
+    "recorder",
+    "video",
+    "recorder",
+    "html5",
+    "live",
+    "video",
+    "recorder",
+    "html5",
+    "video"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/edouardkombo/jsHtml5VideoRecorder",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "whammy": "*"
+  },
+  "_release": "7397b35bb9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7397b35bb9fdbccd648e131eeed63cdc218591c7"
+  },
+  "_source": "git://github.com/edouardkombo/jsHtml5VideoRecorder.git",
+  "_target": "*",
+  "_originalSource": "js-html5-video-recorder",
+  "_direct": true
+}
