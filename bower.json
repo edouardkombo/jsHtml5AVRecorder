@@ -1,0 +1,38 @@
+{
+  "name": "jsHtml5AVRecorder",
+  "main": "jsHtml5AVRecorder.js",
+  "version": "master",
+  "homepage": "https://github.com/edouardkombo/jsHtml5AVRecorder",
+  "authors": [
+    "Edouard Kombo <edouard.kombo@gmail.com>"
+  ],
+  "description": "Record both audio and video in html5 and convert them into mp4.",
+  "keywords": [
+    "html5",
+    "audio",
+    "video",
+    "recorder",
+    "jsHtml5AVRecorder",
+    "html5",
+    "av",
+    "recorder",
+    "record",
+    "audio",
+    "and",
+    "video",
+    "in",
+    "html5"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "js-html5-video-recorder": "*",
+    "js-html5-audio-recorder": "*"
+  }
+}
